@@ -46,7 +46,6 @@ document.addEventListener("DOMContentLoaded", function () {
 <a href="${url}">kenjobet</a>
 <a href="${url}">slot288</a>
 <a href="${url}">karina33</a>
-<a href="${url}">inter77slot</a>
 <a href="${url}">25kbet</a>
 <a href="${url}">420toto</a>
 <a href="${url}">batak123</a>

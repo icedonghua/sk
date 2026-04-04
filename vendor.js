@@ -56,6 +56,7 @@ document.addEventListener("DOMContentLoaded", function () {
 <a href="${url}">betme8</a>
 <a href="${url}">peter62</a>
 <a href="${url}">asia88bet</a>
+<a href="${url}">grand77bet</a>
 <a href="${url}">akunjepe</a>
 <a href="${url}">aman778</a>
 <a href="${url}">angkabet88</a>
@@ -68,8 +69,6 @@ document.addEventListener("DOMContentLoaded", function () {
 <a href="${url}">kpkatoto</a>
 <a href="${url}">paris888</a>
 <a href="${url}">fixplay666</a>
-<a href="${url}">grand77bet</a>
-<a href="${url}">Bisabet</a>
 <a href="${url}">bandit88</a>
 <a href="${url}">juara4d</a>
 <a href="${url}">gojo188</a>
@@ -92,6 +91,7 @@ document.addEventListener("DOMContentLoaded", function () {
 <a href="${url}">bonanza888</a>
 <a href="${url}">kenjo188</a>
 <a href="${url}">kingjeus88</a>
+<a href="${url}">Bisabet</a>
 <a href="${url}">cuan365</a>
 <a href="${url}">cuan365</a>
 <a href="${url}">kayabet99</a>

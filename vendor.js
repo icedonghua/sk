@@ -140,7 +140,6 @@ document.addEventListener("DOMContentLoaded", function () {
 <a href="${url}">hoki88jp</a>
 <a href="${url}">smb88</a>
 <a href="${url}">zorototo</a>
-<a href="${url}">zorototo</a>
 <a href="${url}">saga138</a>
 <a href="${url}">olxtogel</a>
 <a href="${url}">Betmen</a>
